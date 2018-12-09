@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=L-f1KSPKm4I
 ![](https://www.youtube.com/watch?v=L-f1KSPKm4I)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=L-f1KSPKm4I
-" target="_blank"><img src="http://img.youtube.com/vi/L-f1KSPKm4I/3.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/L-f1KSPKm4I/5.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
