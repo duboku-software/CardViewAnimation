@@ -9,5 +9,6 @@ https://www.youtube.com/watch?v=L-f1KSPKm4I
 " target="_blank"><img src="http://img.youtube.com/vi/L-f1KSPKm4I/2.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+![](http://img.youtube.com/vi/L-f1KSPKm4I/3.jpg)
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/L-f1KSPKm4I/0.jpg)](http://www.youtube.com/watch?v=L-f1KSPKm4I)
